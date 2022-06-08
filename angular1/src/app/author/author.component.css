@@ -1,0 +1,28 @@
+img
+{
+    height: 350px;
+    width: 350px;
+}
+
+li
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: red;
+}
+
+h1
+{
+    color: red;
+}
+
+button
+{
+    width: 10%;
+    height: 10%;
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: inherit;
+    border-color: red;
+}

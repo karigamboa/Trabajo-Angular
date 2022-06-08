@@ -1,0 +1,15 @@
+div
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightgray;
+    height: 30px;
+    margin-bottom: 15px;
+}
+
+a
+{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}

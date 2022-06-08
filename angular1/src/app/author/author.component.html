@@ -1,0 +1,13 @@
+<img *ngIf="imagen=='mostrar'" src="assets/imagenes/logo.jpg" alt="">
+
+
+<div>
+    <button (click)="mostrar()">Mostrar</button>
+    <button (click)="ocultar()">Ocultar</button>
+</div>
+
+<h1>Programadora Karina</h1>
+
+<h2>Lorem ipsum dolor sit amet.</h2>
+
+<li *ngFor="let item of lenguajes">{{item}}</li>
