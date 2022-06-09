@@ -1,11 +1,11 @@
 .contenedormayor
 {
-   border: 5px #FFA69E solid;
+   border: 5px #57cc99 solid;
    width: 25%;
    height: 400px;
-   color: #60d394;
+   color: #22577a;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   background-color: #ddfff7;
+   background-color: #c7f9cc;
    margin-bottom: 15px;
    margin-left: 15px;
    justify-content: center;
@@ -14,12 +14,12 @@
 h2
 {
     margin-left: 80px;
-    text-decoration: underline navy;
+    text-decoration: underline #38a3a5;
 }
 
 img
 {
     margin-left: 80px;
-    border: solid navy;
+    border: solid #38a3a5;
 }
 
