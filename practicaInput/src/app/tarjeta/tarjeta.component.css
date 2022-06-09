@@ -1,0 +1,25 @@
+.contenedormayor
+{
+   border: 5px #FFA69E solid;
+   width: 25%;
+   height: 400px;
+   color: #60d394;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-color: #ddfff7;
+   margin-bottom: 15px;
+   margin-left: 15px;
+   justify-content: center;
+}
+
+h2
+{
+    margin-left: 80px;
+    text-decoration: underline navy;
+}
+
+img
+{
+    margin-left: 80px;
+    border: solid navy;
+}
+
