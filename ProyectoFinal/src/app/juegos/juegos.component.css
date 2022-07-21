@@ -1,0 +1,23 @@
+.tarjetaEdit
+{
+    width: 200px;
+}
+
+div
+{
+    text-align: center;
+    width: 200px;
+    height: 300px;
+    
+}
+
+
+
+.editable 
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    column-gap: 20px;
+    padding: 30px;
+    gap: 20px;
+}

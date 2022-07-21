@@ -1,0 +1,40 @@
+div
+{
+    display: flex;
+    background-color: lightgray;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+a
+{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0d21a1;
+    text-decoration: none;
+    text-align: center;
+}
+
+section
+{
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+input
+{
+    border-radius: 4px;
+    width: 140px;
+    height: 30px;
+    border: 2px solid #0d21a1;
+
+}
+
+button
+{
+    border-color: black;
+    border-radius: 4px;
+    height: 35px;
+    color: #0d21a1;
+  
+}

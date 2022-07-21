@@ -1,0 +1,10 @@
+<div class="mayor">
+<h1>Juegos Extra</h1>
+
+
+<div class="edit">
+<app-tarjeta class='tarjetaEdit' *ngFor="let juego of infoAPI.results"
+[nombrejuego]="juego.name" [imagen]="juego.background_image"  [idjuego]="juego.id"></app-tarjeta>
+</div>
+
+</div>
